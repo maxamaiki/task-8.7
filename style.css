@@ -1,0 +1,27 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+.card-header {
+    background-color:aquamarine;
+    font-size:larger;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-footer {
+    background-color:aquamarine;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#btnRetry {
+    font-size:larger;
+}
+
+#btnRetry:hover {
+    color:rgba(0, 0, 0, 0.667);
+}
+
+.card-body {
+    background-color: antiquewhite;
+}
